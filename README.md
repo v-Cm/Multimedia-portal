@@ -1,1 +1,4 @@
-This is a collection of various multimedia projects. This is an assignment given by my faculty from college.
+This website, made using Adobe Dreamweaver, is a collection of various multimedia projects. 
+This activity was given as an assignment by college.
+
+URL: https://v-cm.github.io/multimedia/
